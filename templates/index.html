@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NEXUS — Distributed Search Engine</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Syne:wght@400;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <!-- Animated grid background -->
+  <div class="grid-bg" aria-hidden="true"></div>
+
+  <!-- Floating orbs -->
+  <div class="orb orb-1" aria-hidden="true"></div>
+  <div class="orb orb-2" aria-hidden="true"></div>
+  <div class="orb orb-3" aria-hidden="true"></div>
+
+  <div class="container">
+
+    <!-- ── Header ── -->
+    <header class="header">
+      <div class="logo-mark">
+        <span class="logo-bracket">[</span>
+        <span class="logo-text">NEXUS</span>
+        <span class="logo-bracket">]</span>
+      </div>
+      <p class="tagline">Distributed Search &bull; MapReduce Powered &bull; Inverted Index</p>
+      <div class="header-stats" id="headerStats">
+        <span class="stat-pill">Loading index…</span>
+      </div>
+    </header>
+
+    <!-- ── Search Box ── -->
+    <main class="search-section">
+      <div class="search-card">
+        <div class="search-label">
+          <span class="prompt-symbol">$</span>
+          <span>QUERY</span>
+        </div>
+        <div class="search-row">
+          <input
+            type="text"
+            id="searchInput"
+            class="search-input"
+            placeholder="enter keyword…"
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <button id="searchBtn" class="search-btn" onclick="runSearch()">
+            <span class="btn-label">SEARCH</span>
+            <span class="btn-icon">→</span>
+          </button>
+        </div>
+        <div class="search-hints">
+          <span>Try: <button class="hint-chip" onclick="quickSearch('machine')">machine</button></span>
+          <button class="hint-chip" onclick="quickSearch('data')">data</button>
+          <button class="hint-chip" onclick="quickSearch('python')">python</button>
+          <button class="hint-chip" onclick="quickSearch('algorithm')">algorithm</button>
+        </div>
+      </div>
+    </main>
+
+    <!-- ── Results Panel ── -->
+    <section class="results-section" id="resultsSection" aria-live="polite">
+      <!-- Injected by script.js -->
+    </section>
+
+  </div>
+
+  <!-- ── Footer ── -->
+  <footer class="footer">
+    <span>PySpark &bull; MapReduce &bull; Inverted Index &bull; Flask API</span>
+  </footer>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>

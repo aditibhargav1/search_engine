@@ -1,0 +1,10 @@
+A search engine is a software system designed to carry out web searches and return relevant results to users.
+Inverted indexes are the core data structure behind search engines, mapping words to the documents that contain them.
+Google's PageRank algorithm ranks web pages based on the number and quality of links pointing to them.
+Full-text search engines parse documents, tokenize text, remove stopwords, and build an index for fast retrieval.
+Query processing involves parsing the user's search query and matching it against the inverted index.
+TF-IDF, or Term Frequency–Inverse Document Frequency, is a statistical measure used to evaluate word relevance in documents.
+Elasticsearch is a distributed search and analytics engine built on Apache Lucene.
+Search engine crawlers, called spiders or bots, continuously visit and index web pages across the internet.
+Relevance ranking determines the order in which documents are returned to ensure the most useful results appear first.
+Distributed search engines partition the index across multiple servers to handle large-scale document corpora efficiently.

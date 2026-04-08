@@ -1,0 +1,1402 @@
+{
+  "1991": [
+    "python_programming.txt"
+  ],
+  "35": [
+    "python_programming.txt"
+  ],
+  "400000": [
+    "python_programming.txt"
+  ],
+  "a": [
+    "algorithms.txt",
+    "big_data.txt",
+    "machine_learning.txt",
+    "python_programming.txt",
+    "search_engines.txt"
+  ],
+  "accessed": [
+    "algorithms.txt"
+  ],
+  "accomplishing": [
+    "algorithms.txt"
+  ],
+  "accuracy": [
+    "machine_learning.txt"
+  ],
+  "across": [
+    "big_data.txt",
+    "search_engines.txt"
+  ],
+  "against": [
+    "search_engines.txt"
+  ],
+  "aggregates": [
+    "big_data.txt"
+  ],
+  "algorithm": [
+    "algorithms.txt",
+    "machine_learning.txt",
+    "search_engines.txt"
+  ],
+  "algorithms": [
+    "algorithms.txt",
+    "machine_learning.txt"
+  ],
+  "allow": [
+    "python_programming.txt"
+  ],
+  "allows": [
+    "python_programming.txt"
+  ],
+  "an": [
+    "algorithms.txt",
+    "big_data.txt",
+    "search_engines.txt"
+  ],
+  "analytics": [
+    "search_engines.txt"
+  ],
+  "and": [
+    "algorithms.txt",
+    "big_data.txt",
+    "machine_learning.txt",
+    "python_programming.txt",
+    "search_engines.txt"
+  ],
+  "annotate": [
+    "python_programming.txt"
+  ],
+  "apache": [
+    "big_data.txt",
+    "search_engines.txt"
+  ],
+  "api": [
+    "big_data.txt"
+  ],
+  "apis": [
+    "python_programming.txt"
+  ],
+  "appear": [
+    "search_engines.txt"
+  ],
+  "applications": [
+    "python_programming.txt"
+  ],
+  "architectural": [
+    "python_programming.txt"
+  ],
+  "architectures": [
+    "big_data.txt"
+  ],
+  "are": [
+    "algorithms.txt",
+    "big_data.txt",
+    "machine_learning.txt",
+    "search_engines.txt"
+  ],
+  "array": [
+    "algorithms.txt"
+  ],
+  "artificial": [
+    "machine_learning.txt"
+  ],
+  "as": [
+    "algorithms.txt",
+    "machine_learning.txt"
+  ],
+  "assessing": [
+    "machine_learning.txt"
+  ],
+  "asynchronous": [
+    "python_programming.txt"
+  ],
+  "asyncio": [
+    "python_programming.txt"
+  ],
+  "at": [
+    "big_data.txt"
+  ],
+  "automatically": [
+    "machine_learning.txt"
+  ],
+  "average": [
+    "algorithms.txt"
+  ],
+  "averagecase": [
+    "algorithms.txt"
+  ],
+  "based": [
+    "search_engines.txt"
+  ],
+  "batch": [
+    "big_data.txt"
+  ],
+  "be": [
+    "algorithms.txt",
+    "big_data.txt"
+  ],
+  "become": [
+    "python_programming.txt"
+  ],
+  "behind": [
+    "search_engines.txt"
+  ],
+  "being": [
+    "machine_learning.txt"
+  ],
+  "better": [
+    "python_programming.txt"
+  ],
+  "bfs": [
+    "algorithms.txt"
+  ],
+  "big": [
+    "big_data.txt"
+  ],
+  "bigo": [
+    "algorithms.txt"
+  ],
+  "binary": [
+    "algorithms.txt"
+  ],
+  "bots": [
+    "search_engines.txt"
+  ],
+  "breaking": [
+    "algorithms.txt"
+  ],
+  "breaks": [
+    "big_data.txt"
+  ],
+  "build": [
+    "search_engines.txt"
+  ],
+  "building": [
+    "python_programming.txt"
+  ],
+  "built": [
+    "search_engines.txt"
+  ],
+  "builtin": [
+    "big_data.txt"
+  ],
+  "by": [
+    "algorithms.txt",
+    "big_data.txt",
+    "python_programming.txt"
+  ],
+  "called": [
+    "search_engines.txt"
+  ],
+  "can": [
+    "algorithms.txt",
+    "big_data.txt"
+  ],
+  "cannot": [
+    "big_data.txt"
+  ],
+  "carry": [
+    "search_engines.txt"
+  ],
+  "clarity": [
+    "python_programming.txt"
+  ],
+  "classifier": [
+    "machine_learning.txt"
+  ],
+  "cluster": [
+    "big_data.txt"
+  ],
+  "code": [
+    "python_programming.txt"
+  ],
+  "complex": [
+    "algorithms.txt"
+  ],
+  "complexity": [
+    "algorithms.txt",
+    "python_programming.txt"
+  ],
+  "comprehensions": [
+    "python_programming.txt"
+  ],
+  "computation": [
+    "big_data.txt"
+  ],
+  "computers": [
+    "machine_learning.txt"
+  ],
+  "computing": [
+    "big_data.txt",
+    "python_programming.txt"
+  ],
+  "concise": [
+    "python_programming.txt"
+  ],
+  "concurrent": [
+    "python_programming.txt"
+  ],
+  "contain": [
+    "search_engines.txt"
+  ],
+  "continuously": [
+    "search_engines.txt"
+  ],
+  "core": [
+    "search_engines.txt"
+  ],
+  "corpora": [
+    "search_engines.txt"
+  ],
+  "crawlers": [
+    "search_engines.txt"
+  ],
+  "created": [
+    "python_programming.txt"
+  ],
+  "creating": [
+    "machine_learning.txt"
+  ],
+  "critical": [
+    "machine_learning.txt"
+  ],
+  "crossvalidation": [
+    "machine_learning.txt"
+  ],
+  "data": [
+    "algorithms.txt",
+    "big_data.txt",
+    "machine_learning.txt",
+    "python_programming.txt",
+    "search_engines.txt"
+  ],
+  "database": [
+    "big_data.txt"
+  ],
+  "datasets": [
+    "big_data.txt",
+    "machine_learning.txt"
+  ],
+  "deep": [
+    "machine_learning.txt"
+  ],
+  "deletion": [
+    "algorithms.txt"
+  ],
+  "descent": [
+    "machine_learning.txt"
+  ],
+  "describe": [
+    "algorithms.txt"
+  ],
+  "describing": [
+    "big_data.txt"
+  ],
+  "designed": [
+    "search_engines.txt"
+  ],
+  "determines": [
+    "search_engines.txt"
+  ],
+  "developers": [
+    "python_programming.txt"
+  ],
+  "dijkstras": [
+    "algorithms.txt"
+  ],
+  "distributed": [
+    "big_data.txt",
+    "search_engines.txt"
+  ],
+  "diversity": [
+    "big_data.txt"
+  ],
+  "django": [
+    "python_programming.txt"
+  ],
+  "document": [
+    "algorithms.txt",
+    "search_engines.txt"
+  ],
+  "documents": [
+    "search_engines.txt"
+  ],
+  "dominant": [
+    "python_programming.txt"
+  ],
+  "dramatically": [
+    "big_data.txt"
+  ],
+  "due": [
+    "python_programming.txt"
+  ],
+  "during": [
+    "machine_learning.txt"
+  ],
+  "dynamic": [
+    "algorithms.txt"
+  ],
+  "ecosystem": [
+    "python_programming.txt"
+  ],
+  "efficiently": [
+    "algorithms.txt",
+    "search_engines.txt"
+  ],
+  "elasticsearch": [
+    "search_engines.txt"
+  ],
+  "enable": [
+    "algorithms.txt",
+    "python_programming.txt"
+  ],
+  "enables": [
+    "big_data.txt",
+    "machine_learning.txt"
+  ],
+  "enabling": [
+    "algorithms.txt",
+    "big_data.txt"
+  ],
+  "encoding": [
+    "machine_learning.txt"
+  ],
+  "engine": [
+    "big_data.txt",
+    "search_engines.txt"
+  ],
+  "engineering": [
+    "machine_learning.txt"
+  ],
+  "engineers": [
+    "big_data.txt"
+  ],
+  "engines": [
+    "algorithms.txt",
+    "search_engines.txt"
+  ],
+  "ensure": [
+    "search_engines.txt"
+  ],
+  "essential": [
+    "algorithms.txt",
+    "machine_learning.txt"
+  ],
+  "evaluate": [
+    "machine_learning.txt",
+    "search_engines.txt"
+  ],
+  "evaluation": [
+    "machine_learning.txt"
+  ],
+  "eventdriven": [
+    "big_data.txt"
+  ],
+  "examples": [
+    "machine_learning.txt"
+  ],
+  "execution": [
+    "python_programming.txt"
+  ],
+  "explicitly": [
+    "machine_learning.txt"
+  ],
+  "expressive": [
+    "python_programming.txt"
+  ],
+  "extract": [
+    "machine_learning.txt"
+  ],
+  "extremely": [
+    "big_data.txt"
+  ],
+  "f1score": [
+    "machine_learning.txt"
+  ],
+  "fast": [
+    "algorithms.txt",
+    "big_data.txt",
+    "search_engines.txt"
+  ],
+  "fault": [
+    "big_data.txt"
+  ],
+  "feature": [
+    "machine_learning.txt"
+  ],
+  "features": [
+    "machine_learning.txt"
+  ],
+  "file": [
+    "big_data.txt"
+  ],
+  "finite": [
+    "algorithms.txt"
+  ],
+  "first": [
+    "search_engines.txt"
+  ],
+  "flask": [
+    "python_programming.txt"
+  ],
+  "flink": [
+    "big_data.txt"
+  ],
+  "follows": [
+    "python_programming.txt"
+  ],
+  "for": [
+    "algorithms.txt",
+    "big_data.txt",
+    "machine_learning.txt",
+    "python_programming.txt",
+    "search_engines.txt"
+  ],
+  "framework": [
+    "big_data.txt",
+    "python_programming.txt"
+  ],
+  "frameworks": [
+    "machine_learning.txt",
+    "python_programming.txt"
+  ],
+  "frequency": [
+    "search_engines.txt"
+  ],
+  "frequencyinverse": [
+    "search_engines.txt"
+  ],
+  "from": [
+    "machine_learning.txt"
+  ],
+  "fullfeatured": [
+    "python_programming.txt"
+  ],
+  "fulltext": [
+    "search_engines.txt"
+  ],
+  "function": [
+    "algorithms.txt",
+    "machine_learning.txt"
+  ],
+  "functional": [
+    "python_programming.txt"
+  ],
+  "functions": [
+    "python_programming.txt"
+  ],
+  "fundamental": [
+    "algorithms.txt"
+  ],
+  "generators": [
+    "python_programming.txt"
+  ],
+  "googles": [
+    "search_engines.txt"
+  ],
+  "gradient": [
+    "machine_learning.txt"
+  ],
+  "graph": [
+    "algorithms.txt"
+  ],
+  "guido": [
+    "python_programming.txt"
+  ],
+  "hadoop": [
+    "big_data.txt"
+  ],
+  "handle": [
+    "big_data.txt",
+    "search_engines.txt"
+  ],
+  "handled": [
+    "big_data.txt"
+  ],
+  "handling": [
+    "machine_learning.txt"
+  ],
+  "has": [
+    "python_programming.txt"
+  ],
+  "hash": [
+    "algorithms.txt"
+  ],
+  "hdfs": [
+    "big_data.txt"
+  ],
+  "heapsort": [
+    "algorithms.txt"
+  ],
+  "highlevel": [
+    "python_programming.txt"
+  ],
+  "hints": [
+    "python_programming.txt"
+  ],
+  "hosts": [
+    "python_programming.txt"
+  ],
+  "ideal": [
+    "python_programming.txt"
+  ],
+  "improve": [
+    "machine_learning.txt"
+  ],
+  "in": [
+    "algorithms.txt",
+    "big_data.txt",
+    "machine_learning.txt",
+    "python_programming.txt",
+    "search_engines.txt"
+  ],
+  "include": [
+    "machine_learning.txt"
+  ],
+  "including": [
+    "python_programming.txt"
+  ],
+  "index": [
+    "algorithms.txt",
+    "python_programming.txt",
+    "search_engines.txt"
+  ],
+  "indexes": [
+    "search_engines.txt"
+  ],
+  "indices": [
+    "algorithms.txt"
+  ],
+  "inmemory": [
+    "big_data.txt"
+  ],
+  "input": [
+    "big_data.txt",
+    "machine_learning.txt"
+  ],
+  "insertion": [
+    "algorithms.txt"
+  ],
+  "intelligence": [
+    "machine_learning.txt"
+  ],
+  "intermediate": [
+    "algorithms.txt"
+  ],
+  "internet": [
+    "search_engines.txt"
+  ],
+  "interpreted": [
+    "python_programming.txt"
+  ],
+  "into": [
+    "algorithms.txt",
+    "big_data.txt"
+  ],
+  "introduced": [
+    "python_programming.txt"
+  ],
+  "inverted": [
+    "algorithms.txt",
+    "search_engines.txt"
+  ],
+  "involves": [
+    "machine_learning.txt",
+    "search_engines.txt"
+  ],
+  "involving": [
+    "machine_learning.txt"
+  ],
+  "is": [
+    "algorithms.txt",
+    "big_data.txt",
+    "machine_learning.txt",
+    "python_programming.txt",
+    "search_engines.txt"
+  ],
+  "it": [
+    "algorithms.txt",
+    "search_engines.txt"
+  ],
+  "its": [
+    "python_programming.txt"
+  ],
+  "kafka": [
+    "big_data.txt"
+  ],
+  "keys": [
+    "algorithms.txt"
+  ],
+  "keyvalue": [
+    "big_data.txt"
+  ],
+  "known": [
+    "python_programming.txt"
+  ],
+  "labeled": [
+    "machine_learning.txt"
+  ],
+  "lakes": [
+    "big_data.txt"
+  ],
+  "lambda": [
+    "python_programming.txt"
+  ],
+  "language": [
+    "python_programming.txt"
+  ],
+  "languages": [
+    "python_programming.txt"
+  ],
+  "large": [
+    "big_data.txt"
+  ],
+  "largescale": [
+    "search_engines.txt"
+  ],
+  "layers": [
+    "machine_learning.txt"
+  ],
+  "learn": [
+    "machine_learning.txt"
+  ],
+  "learning": [
+    "big_data.txt",
+    "machine_learning.txt",
+    "python_programming.txt"
+  ],
+  "learns": [
+    "machine_learning.txt"
+  ],
+  "libraries": [
+    "python_programming.txt"
+  ],
+  "lightweight": [
+    "python_programming.txt"
+  ],
+  "like": [
+    "algorithms.txt",
+    "big_data.txt"
+  ],
+  "links": [
+    "search_engines.txt"
+  ],
+  "list": [
+    "python_programming.txt"
+  ],
+  "lists": [
+    "algorithms.txt"
+  ],
+  "lookup": [
+    "algorithms.txt"
+  ],
+  "loss": [
+    "machine_learning.txt"
+  ],
+  "lucene": [
+    "search_engines.txt"
+  ],
+  "machine": [
+    "big_data.txt",
+    "machine_learning.txt",
+    "python_programming.txt"
+  ],
+  "machines": [
+    "big_data.txt"
+  ],
+  "make": [
+    "machine_learning.txt"
+  ],
+  "many": [
+    "big_data.txt",
+    "machine_learning.txt"
+  ],
+  "map": [
+    "algorithms.txt",
+    "big_data.txt"
+  ],
+  "mapping": [
+    "algorithms.txt",
+    "search_engines.txt"
+  ],
+  "mapreduce": [
+    "big_data.txt"
+  ],
+  "matching": [
+    "search_engines.txt"
+  ],
+  "measure": [
+    "search_engines.txt"
+  ],
+  "medium": [
+    "python_programming.txt"
+  ],
+  "mergesort": [
+    "algorithms.txt"
+  ],
+  "metrics": [
+    "machine_learning.txt"
+  ],
+  "minimize": [
+    "machine_learning.txt"
+  ],
+  "missing": [
+    "machine_learning.txt"
+  ],
+  "model": [
+    "machine_learning.txt"
+  ],
+  "models": [
+    "machine_learning.txt"
+  ],
+  "modelviewtemplate": [
+    "python_programming.txt"
+  ],
+  "modified": [
+    "algorithms.txt"
+  ],
+  "most": [
+    "python_programming.txt",
+    "search_engines.txt"
+  ],
+  "multiple": [
+    "big_data.txt",
+    "python_programming.txt",
+    "search_engines.txt"
+  ],
+  "multithreading": [
+    "python_programming.txt"
+  ],
+  "n": [
+    "algorithms.txt"
+  ],
+  "network": [
+    "algorithms.txt"
+  ],
+  "networks": [
+    "algorithms.txt",
+    "machine_learning.txt"
+  ],
+  "neural": [
+    "machine_learning.txt"
+  ],
+  "new": [
+    "machine_learning.txt"
+  ],
+  "nodes": [
+    "big_data.txt"
+  ],
+  "normalization": [
+    "machine_learning.txt"
+  ],
+  "notation": [
+    "algorithms.txt"
+  ],
+  "number": [
+    "search_engines.txt"
+  ],
+  "o1": [
+    "algorithms.txt"
+  ],
+  "objectoriented": [
+    "python_programming.txt"
+  ],
+  "occurs": [
+    "machine_learning.txt"
+  ],
+  "of": [
+    "algorithms.txt",
+    "big_data.txt",
+    "machine_learning.txt",
+    "python_programming.txt",
+    "search_engines.txt"
+  ],
+  "olog": [
+    "algorithms.txt"
+  ],
+  "on": [
+    "machine_learning.txt",
+    "search_engines.txt"
+  ],
+  "one": [
+    "python_programming.txt"
+  ],
+  "opensource": [
+    "big_data.txt",
+    "python_programming.txt"
+  ],
+  "operations": [
+    "algorithms.txt"
+  ],
+  "optimization": [
+    "machine_learning.txt"
+  ],
+  "optimized": [
+    "big_data.txt"
+  ],
+  "or": [
+    "algorithms.txt",
+    "python_programming.txt",
+    "search_engines.txt"
+  ],
+  "order": [
+    "search_engines.txt"
+  ],
+  "organizing": [
+    "algorithms.txt"
+  ],
+  "out": [
+    "search_engines.txt"
+  ],
+  "over": [
+    "python_programming.txt"
+  ],
+  "overfitting": [
+    "machine_learning.txt"
+  ],
+  "overlapping": [
+    "algorithms.txt"
+  ],
+  "package": [
+    "python_programming.txt"
+  ],
+  "pagerank": [
+    "search_engines.txt"
+  ],
+  "pages": [
+    "search_engines.txt"
+  ],
+  "pairs": [
+    "big_data.txt"
+  ],
+  "paradigms": [
+    "python_programming.txt"
+  ],
+  "parallel": [
+    "big_data.txt"
+  ],
+  "parse": [
+    "search_engines.txt"
+  ],
+  "parsing": [
+    "search_engines.txt"
+  ],
+  "partition": [
+    "search_engines.txt"
+  ],
+  "pathfinding": [
+    "algorithms.txt"
+  ],
+  "pattern": [
+    "python_programming.txt"
+  ],
+  "performance": [
+    "algorithms.txt",
+    "machine_learning.txt"
+  ],
+  "performs": [
+    "machine_learning.txt"
+  ],
+  "phase": [
+    "big_data.txt"
+  ],
+  "phases": [
+    "big_data.txt"
+  ],
+  "pipelines": [
+    "big_data.txt",
+    "machine_learning.txt"
+  ],
+  "pointing": [
+    "search_engines.txt"
+  ],
+  "poorly": [
+    "machine_learning.txt"
+  ],
+  "popular": [
+    "machine_learning.txt",
+    "python_programming.txt"
+  ],
+  "precision": [
+    "machine_learning.txt"
+  ],
+  "predictions": [
+    "machine_learning.txt"
+  ],
+  "prefix": [
+    "algorithms.txt"
+  ],
+  "prefixbased": [
+    "algorithms.txt"
+  ],
+  "preprocessing": [
+    "machine_learning.txt"
+  ],
+  "problem": [
+    "algorithms.txt"
+  ],
+  "problems": [
+    "algorithms.txt"
+  ],
+  "procedural": [
+    "python_programming.txt"
+  ],
+  "procedure": [
+    "algorithms.txt"
+  ],
+  "processed": [
+    "big_data.txt"
+  ],
+  "processing": [
+    "big_data.txt",
+    "search_engines.txt"
+  ],
+  "programmed": [
+    "machine_learning.txt"
+  ],
+  "programming": [
+    "algorithms.txt",
+    "python_programming.txt"
+  ],
+  "provide": [
+    "algorithms.txt"
+  ],
+  "pypi": [
+    "python_programming.txt"
+  ],
+  "pyspark": [
+    "big_data.txt"
+  ],
+  "python": [
+    "big_data.txt",
+    "python_programming.txt"
+  ],
+  "pythons": [
+    "python_programming.txt"
+  ],
+  "pytorch": [
+    "machine_learning.txt"
+  ],
+  "quality": [
+    "machine_learning.txt",
+    "search_engines.txt"
+  ],
+  "queries": [
+    "algorithms.txt"
+  ],
+  "query": [
+    "search_engines.txt"
+  ],
+  "querying": [
+    "big_data.txt"
+  ],
+  "quicksort": [
+    "algorithms.txt"
+  ],
+  "ranking": [
+    "search_engines.txt"
+  ],
+  "ranks": [
+    "search_engines.txt"
+  ],
+  "raw": [
+    "big_data.txt",
+    "machine_learning.txt"
+  ],
+  "readable": [
+    "python_programming.txt"
+  ],
+  "realtime": [
+    "big_data.txt"
+  ],
+  "recall": [
+    "machine_learning.txt"
+  ],
+  "reduce": [
+    "big_data.txt",
+    "machine_learning.txt"
+  ],
+  "reducing": [
+    "big_data.txt"
+  ],
+  "redundancy": [
+    "big_data.txt"
+  ],
+  "refers": [
+    "big_data.txt"
+  ],
+  "relevance": [
+    "search_engines.txt"
+  ],
+  "relevant": [
+    "search_engines.txt"
+  ],
+  "remove": [
+    "search_engines.txt"
+  ],
+  "rest": [
+    "python_programming.txt"
+  ],
+  "results": [
+    "algorithms.txt",
+    "search_engines.txt"
+  ],
+  "retrieval": [
+    "search_engines.txt"
+  ],
+  "return": [
+    "search_engines.txt"
+  ],
+  "returned": [
+    "search_engines.txt"
+  ],
+  "rich": [
+    "python_programming.txt"
+  ],
+  "rossum": [
+    "python_programming.txt"
+  ],
+  "routing": [
+    "algorithms.txt"
+  ],
+  "scale": [
+    "big_data.txt"
+  ],
+  "scenario": [
+    "algorithms.txt"
+  ],
+  "science": [
+    "python_programming.txt"
+  ],
+  "scientific": [
+    "python_programming.txt"
+  ],
+  "scikitlearn": [
+    "machine_learning.txt"
+  ],
+  "search": [
+    "algorithms.txt",
+    "search_engines.txt"
+  ],
+  "searches": [
+    "search_engines.txt"
+  ],
+  "selecting": [
+    "machine_learning.txt"
+  ],
+  "servers": [
+    "search_engines.txt"
+  ],
+  "simple": [
+    "python_programming.txt"
+  ],
+  "small": [
+    "python_programming.txt"
+  ],
+  "so": [
+    "algorithms.txt"
+  ],
+  "social": [
+    "algorithms.txt"
+  ],
+  "software": [
+    "search_engines.txt"
+  ],
+  "solves": [
+    "algorithms.txt"
+  ],
+  "solving": [
+    "algorithms.txt"
+  ],
+  "sorting": [
+    "algorithms.txt"
+  ],
+  "space": [
+    "algorithms.txt"
+  ],
+  "spark": [
+    "big_data.txt"
+  ],
+  "specialized": [
+    "algorithms.txt"
+  ],
+  "speed": [
+    "big_data.txt"
+  ],
+  "spiders": [
+    "search_engines.txt"
+  ],
+  "statistical": [
+    "search_engines.txt"
+  ],
+  "step": [
+    "machine_learning.txt"
+  ],
+  "stepbystep": [
+    "algorithms.txt"
+  ],
+  "stopwords": [
+    "search_engines.txt"
+  ],
+  "storage": [
+    "big_data.txt"
+  ],
+  "store": [
+    "algorithms.txt",
+    "big_data.txt"
+  ],
+  "stores": [
+    "big_data.txt"
+  ],
+  "storing": [
+    "algorithms.txt"
+  ],
+  "streaming": [
+    "big_data.txt"
+  ],
+  "strings": [
+    "algorithms.txt"
+  ],
+  "structure": [
+    "algorithms.txt",
+    "search_engines.txt"
+  ],
+  "structured": [
+    "big_data.txt"
+  ],
+  "structures": [
+    "algorithms.txt"
+  ],
+  "subfield": [
+    "machine_learning.txt"
+  ],
+  "subproblems": [
+    "algorithms.txt"
+  ],
+  "such": [
+    "algorithms.txt",
+    "machine_learning.txt"
+  ],
+  "supervised": [
+    "machine_learning.txt"
+  ],
+  "support": [
+    "python_programming.txt"
+  ],
+  "supports": [
+    "python_programming.txt"
+  ],
+  "syntax": [
+    "python_programming.txt"
+  ],
+  "system": [
+    "big_data.txt",
+    "search_engines.txt"
+  ],
+  "tables": [
+    "algorithms.txt"
+  ],
+  "task": [
+    "algorithms.txt"
+  ],
+  "technique": [
+    "machine_learning.txt"
+  ],
+  "tensorflow": [
+    "machine_learning.txt"
+  ],
+  "term": [
+    "search_engines.txt"
+  ],
+  "text": [
+    "search_engines.txt"
+  ],
+  "tfidf": [
+    "search_engines.txt"
+  ],
+  "that": [
+    "algorithms.txt",
+    "big_data.txt",
+    "machine_learning.txt",
+    "python_programming.txt",
+    "search_engines.txt"
+  ],
+  "the": [
+    "algorithms.txt",
+    "big_data.txt",
+    "machine_learning.txt",
+    "python_programming.txt",
+    "search_engines.txt"
+  ],
+  "them": [
+    "algorithms.txt",
+    "big_data.txt",
+    "search_engines.txt"
+  ],
+  "three": [
+    "big_data.txt"
+  ],
+  "time": [
+    "algorithms.txt",
+    "big_data.txt"
+  ],
+  "to": [
+    "algorithms.txt",
+    "big_data.txt",
+    "machine_learning.txt",
+    "python_programming.txt",
+    "search_engines.txt"
+  ],
+  "tokenize": [
+    "search_engines.txt"
+  ],
+  "tolerance": [
+    "big_data.txt"
+  ],
+  "too": [
+    "machine_learning.txt"
+  ],
+  "tooling": [
+    "python_programming.txt"
+  ],
+  "tools": [
+    "big_data.txt"
+  ],
+  "traditional": [
+    "big_data.txt"
+  ],
+  "train": [
+    "machine_learning.txt"
+  ],
+  "training": [
+    "machine_learning.txt"
+  ],
+  "transforming": [
+    "machine_learning.txt"
+  ],
+  "transforms": [
+    "big_data.txt"
+  ],
+  "tree": [
+    "algorithms.txt"
+  ],
+  "trees": [
+    "algorithms.txt"
+  ],
+  "trie": [
+    "algorithms.txt"
+  ],
+  "two": [
+    "big_data.txt"
+  ],
+  "type": [
+    "python_programming.txt"
+  ],
+  "types": [
+    "python_programming.txt"
+  ],
+  "unseen": [
+    "machine_learning.txt"
+  ],
+  "unstructured": [
+    "big_data.txt"
+  ],
+  "use": [
+    "algorithms.txt"
+  ],
+  "used": [
+    "algorithms.txt",
+    "machine_learning.txt",
+    "search_engines.txt"
+  ],
+  "useful": [
+    "search_engines.txt"
+  ],
+  "users": [
+    "search_engines.txt"
+  ],
+  "uses": [
+    "machine_learning.txt"
+  ],
+  "using": [
+    "big_data.txt",
+    "python_programming.txt"
+  ],
+  "values": [
+    "machine_learning.txt"
+  ],
+  "van": [
+    "python_programming.txt"
+  ],
+  "variable": [
+    "python_programming.txt"
+  ],
+  "variables": [
+    "machine_learning.txt"
+  ],
+  "variety": [
+    "big_data.txt"
+  ],
+  "velocity": [
+    "big_data.txt"
+  ],
+  "visit": [
+    "search_engines.txt"
+  ],
+  "volume": [
+    "big_data.txt"
+  ],
+  "vs": [
+    "big_data.txt"
+  ],
+  "warehouses": [
+    "big_data.txt"
+  ],
+  "ways": [
+    "algorithms.txt"
+  ],
+  "web": [
+    "python_programming.txt",
+    "search_engines.txt"
+  ],
+  "well": [
+    "machine_learning.txt"
+  ],
+  "when": [
+    "machine_learning.txt"
+  ],
+  "which": [
+    "search_engines.txt"
+  ],
+  "while": [
+    "big_data.txt"
+  ],
+  "with": [
+    "big_data.txt",
+    "machine_learning.txt"
+  ],
+  "without": [
+    "machine_learning.txt",
+    "python_programming.txt"
+  ],
+  "word": [
+    "search_engines.txt"
+  ],
+  "words": [
+    "algorithms.txt",
+    "search_engines.txt"
+  ],
+  "workloads": [
+    "big_data.txt"
+  ],
+  "world": [
+    "python_programming.txt"
+  ],
+  "worstcase": [
+    "algorithms.txt"
+  ],
+  "write": [
+    "big_data.txt"
+  ]
+}

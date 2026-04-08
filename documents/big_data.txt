@@ -1,0 +1,10 @@
+Big data refers to extremely large datasets that cannot be processed using traditional database tools.
+Apache Hadoop is an open-source framework for distributed storage and processing of large datasets using MapReduce.
+Apache Spark is a fast in-memory data processing engine that can handle batch, streaming, and machine learning workloads.
+The three Vs of big data are Volume, Velocity, and Variety, describing the scale, speed, and diversity of data.
+Distributed computing enables parallel processing of data across multiple nodes in a cluster, dramatically reducing processing time.
+HDFS, the Hadoop Distributed File System, stores data across many machines with built-in redundancy and fault tolerance.
+Data lakes store raw unstructured data at scale, while data warehouses store structured data optimized for querying.
+PySpark is the Python API for Apache Spark, enabling data engineers to write distributed data pipelines in Python.
+MapReduce breaks computation into two phases: the Map phase transforms input into key-value pairs, and the Reduce phase aggregates them.
+Real-time data streaming is handled by tools like Apache Kafka and Apache Flink for event-driven architectures.

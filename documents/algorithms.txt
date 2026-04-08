@@ -1,0 +1,10 @@
+An algorithm is a step-by-step procedure for solving a problem or accomplishing a task in finite time.
+Data structures are ways of organizing and storing data so that it can be accessed and modified efficiently.
+Binary search trees provide O(log n) average-case time complexity for search, insertion, and deletion operations.
+Hash tables use a hash function to map keys to array indices, enabling average O(1) lookup performance.
+Graph algorithms like Dijkstra's and BFS are fundamental to network routing, social networks, and pathfinding.
+Dynamic programming solves complex problems by breaking them into overlapping subproblems and storing intermediate results.
+Sorting algorithms such as quicksort, mergesort, and heapsort are essential for organizing data efficiently.
+Big-O notation is used to describe the time and space complexity of algorithms in the worst-case scenario.
+A trie, or prefix tree, is a tree data structure used to store strings and enable fast prefix-based search queries.
+The inverted index used in search engines is a specialized hash map data structure mapping words to document lists.
